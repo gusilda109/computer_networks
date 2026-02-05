@@ -1,0 +1,11 @@
+domen,rtt min,rtt avg,rtt max,packet loss %
+google.com,1.224,1.420,1.611,0
+farfetch.com,1.232,1.466,1.670,0
+yungleantour.com,1.251,1.437,1.532,0
+macys.com,1.380,1.456,1.516,0
+twitch.com,1.399,1.462,1.517,0
+ya.ru,0.892,1.133,1.649,0
+2ch.hk,0.852,0.968,1.103,0
+lurkmore.ru,0.693,1.015,1.292,0
+tableconvert.com,0.467,0.957,1.356,0
+kremlin.ru,1.131,1.332,1.504,0
